@@ -1,0 +1,38 @@
+div {
+	transition-duration: 0.01s;
+}
+
+.title {
+	color: #999966;
+	padding-top: 25px;
+	text-align: center;
+}
+
+#vu {
+	background-color: #007700;
+	display: block;
+	height: 20px;
+	width: 00px;
+}
+
+#vumax {
+	background-color: #000099;
+	display: block;
+	height: 20px;
+	width: 0px;
+}
+
+#bass {
+	background-color: #000000;
+	display: block;
+	height: 200px;
+	width: 100%;
+}
+
+#treble {
+	background-color: #000000;
+	color: white;
+	display: block;
+	height: 200px;
+	width: 100%;
+}
