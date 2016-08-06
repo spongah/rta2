@@ -13,4 +13,8 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+//= require p5
+//= require p5.sound
+//= require sketch
 //= require_tree .
+
